@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.codezeg.com
+url: http://blog.lingkeyang.com
 date_format: "ordinal"
-title: CodeZeg
-subtitle: "欢迎来到 召唤师峡谷"
-description: "李纠结的个人博客"
-keywords: 李纠结, CodeZeg, 张二狗, 李思禹, 花千骨, Unity, 游戏开发
+title: LazyKris
+subtitle: "Welcome"
+description: "LazyKris的个人博客"
+keywords: LazyKris, Unity, 游戏开发
 favicon: /favicon.ico
 timezone: Asia/Chengdu
 encoding: "utf-8"
-source_code: https://github.com/codezeg
+source_code: https://github.com/lingkeyang
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: siyu li
-organization: 1ktower
-organization_url: http://www.1ktower.com/
+author: Kris Zhang
+organization: #1ktower
+organization_url: #http://www.1ktower.com/
 location: Chengdu, China
-email: 576603306@qq.com
+email: kris@zhanng.org
 
 # ---------------- #
 #    Navigation    #
@@ -83,7 +83,7 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: codezeg
+github_username: lingkeyang
 # douban_username: codezeg
 # facebook_username: codezeg
 # weibo_username: codezeg
@@ -97,7 +97,7 @@ github_username: codezeg
 comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: codezeg
+duoshuo_username: lingkeyang
 # disqus_username: codezeg
 
 # ---------------- #
@@ -113,5 +113,5 @@ ba_track_id: bd2467324f743720cbfae5e109983a92
 # ---------------- #
 #      Repos       #
 # ---------------- #
-popular_repos: ['codezeg.github.io', 'lol_rpg']
+popular_repos: ['lingkeyang.github.io', 'lol_rpg']
 contribute_repos: ['UnrealEngine', 'EpicGames/UnrealEngine']
