@@ -6,7 +6,7 @@ keywords: lingkeyang, kris, 灵珂阳
 comments: true
 menu: 关于
 permalink: /about/
-working: [C#, Java, C++, Python, Lua, Cobol, Unity3D, Html, Asp.net, Jsp, Bat, Bash, Shell, Android]
+working: [C#, Lua, Unity3D]
 ---
 
 lazyKris~
