@@ -35,7 +35,7 @@ public string getPinYinHeader(string strText)
 			return pinyinHeaders[code - 19968] + "";
 	}
 
-	return (char)('A' + UnityEngine.Random.Range(0, 'Z' - 'A')) + "";
+	return (char)('A' + Random.Range(0, 'Z' - 'A')) + "";
 }
 ```
 
