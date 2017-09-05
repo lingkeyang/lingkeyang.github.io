@@ -103,7 +103,7 @@ duoshuo_username: lingkeyang
 # ---------------- #
 #      Share       #
 # ---------------- #
-share: false
+share: true
 
 # ---------------- #
 #    analytics     #
