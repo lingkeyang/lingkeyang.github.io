@@ -97,8 +97,8 @@ github_username: lingkeyang
 comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: codezeg
-# disqus_username: codezeg
+#duoshuo_username: codezeg
+disqus_username: codezeg
 
 # ---------------- #
 #      Share       #
