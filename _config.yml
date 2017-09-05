@@ -21,6 +21,7 @@ organization: #1ktower
 organization_url: #http://www.1ktower.com/
 location: Chengdu, China
 email: kris@zhanng.org
+github_username: lingkeyang
 
 # ---------------- #
 #    Navigation    #
@@ -68,6 +69,7 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 gems:
+    - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
     - jekyll-paginate
@@ -90,20 +92,26 @@ github_username: lingkeyang
 # zhihu_username: codezeg
 # twitter_username: codezeg
 
+
 # ---------------- #
 #      Comments    #
 # ---------------- #
-# support provider: disqus, duoshuo, changyan
-comments_provider: disqus
-# !!!重要!!! 请修改下面两个用户名为你自己申请的
-# !!!Important!!! Please modify usernames below to yours
-#duoshuo_username: codezeg
-disqus_username: codezeg
-
-# ---------------- #
-#      Share       #
-# ---------------- #
-share: true
+# support provider: disqus, gitment
+comments_provider: gitment
+# !!!重要!!! 请修改下面这些信息为你自己申请的
+# !!!Important!!! Please modify infos below to yours
+# https://disqus.com
+disqus:
+    username: codezeg
+# https://imsun.net/posts/gitment-introduction/
+gitment:
+    owner: lingkeyang
+    repo: blog-comments
+    oauth:
+        client_id: dd7dd70d840de70f3b13
+        client_secret: aadf2d2cb840abac9eb47839c2b63cb1953a2623
+# 在使用其它评论组件时可点击显示 Disqus
+lazy_load_disqus : false
 
 # ---------------- #
 #    analytics     #
