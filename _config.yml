@@ -116,8 +116,8 @@ lazy_load_disqus : false
 # ---------------- #
 #    analytics     #
 # ---------------- #
-ba_track_id: bd2467324f743720cbfae5e109983a92
-
+#ba_track_id: bd2467324f743720cbfae5e109983a92
+ba_track_id: ed35fee9271f76aaadd224afbfec9029
 # ---------------- #
 #      Repos       #
 # ---------------- #
