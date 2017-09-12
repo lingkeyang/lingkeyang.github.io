@@ -28,4 +28,5 @@ permalink: /links/
 
 > Friends
 
-* [codezeg](http://www.codezeg.com/)
+* [Codezeg](http://www.codezeg.com/)
+* [Chris Lonng](https://github.com/lonnng/)
